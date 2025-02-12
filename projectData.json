@@ -8,6 +8,13 @@
       "link": "https://education-website-five-lime.vercel.app/"
     },
     {
+      "name": "Personal Portfolio",
+      "img": "personal.png",
+      "description": "Personal Portfolio Website  ",
+      "code": "https://github.com/ankushrai2142/Myprotfolio",
+      "link": "https://myprotfolio-lc3a.vercel.app/"
+    },
+    {
       "name": "Tic-Tac-Game",
       "img": "ticgame.png",
       "description": "Online Tic-Tac-Game Using Javascript",
